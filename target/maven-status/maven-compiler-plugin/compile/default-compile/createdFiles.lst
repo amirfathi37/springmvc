@@ -1,0 +1,4 @@
+com\fathi\controller\AddController.class
+com\fathi\service\AddService.class
+com\fathi\SpringConfig.class
+com\fathi\AppIntilizer.class
